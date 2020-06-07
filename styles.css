@@ -148,6 +148,6 @@ li.hover {
 		background-color: #faf9f6;
 	}
 	ul {
-		padding-right: 10px;
+		text-align: left;
 	}
 }
