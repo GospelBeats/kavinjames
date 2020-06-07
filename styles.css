@@ -147,4 +147,7 @@ li.hover {
 		border-bottom: 1px solid gold;
 		background-color: #faf9f6;
 	}
+	ul {
+		padding-right: 10px;
+	}
 }
