@@ -205,5 +205,10 @@
     max-width: 300px; 
     float: right;
     }
+    .vid-pad{
+    padding-left: 65px;
+    padding-right: 65px;
+   }
+   
      
   }
